@@ -2,18 +2,23 @@
 
 ## Description 
 
-Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
+Welcome to the README file for the website of Horiseon Social Solution Services! Below, you will find important information about the website's structure, technologies used, and instructions on how to run or contribute to the project.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To get a local copy of this website up and running, follow these steps:
+Clone the repo git clone https://github.com/tetyanaleleka/html-refactoring
 
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+Our website offers a comprehensive website analysis tool that allows you to assess the SEO performance of your project. To use this feature:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+1. Search Engine Optimization
+2. Online Reputation Management
+3. Social Media Marketing
+
+A screenshot is added:
 
 ```md
 ![alt text](assets/images/screenshot.png)
@@ -22,13 +27,14 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
+A team of collaborators: Univeristy of Birmingham student (Bootcamp)
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+## Contact
+
+Tetyana Leleka - @tania.leleka - tana.leleka@gmail.com
+
+Project Link: https://github.com/tetyanaleleka/html-refactoring
