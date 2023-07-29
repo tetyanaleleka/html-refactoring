@@ -21,7 +21,7 @@ Our website offers a comprehensive website analysis tool that allows you to asse
 A screenshot is added:
 
 ```md
-![alt text](assets/images/screenshot.png)
+[Horiseon Social Solution Services Website Screenshot](assets/images/screenshot.png)
 ```
 
 
